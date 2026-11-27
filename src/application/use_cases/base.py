@@ -9,7 +9,7 @@ from src.domain.entities.part import Part
 from src.domain.errors import CustomerNotFound, DroneNotFound, PartNotFound
 
 
-class ccvzbxzbnnnnUseCase:
+class UseCase:
     """Основа сценария: единица работы и часы приходят снаружи (внедрение зависимостей)
 
     Attributes:
